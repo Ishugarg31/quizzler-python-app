@@ -3,7 +3,7 @@ import data
 from app_brain import QuizBrain
 
 theme_color="#375362"
-
+#Quizzler app interface
 class QuizInterface:
     def __init__(self,app_brain: QuizBrain):
         self.quiz=app_brain

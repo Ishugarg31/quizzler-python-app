@@ -3,7 +3,7 @@ from data import question_data
 from question_model import Question
 from app_brain import QuizBrain
 
-
+# main file
 question_bank=[]
 for question in question_data:
         question_text=question["question"]

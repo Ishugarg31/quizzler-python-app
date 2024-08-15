@@ -1,6 +1,8 @@
 import requests
 import random
 
+
+# Below code extracts the quiz questions from api
 parameters={
     "amount":10,
     "type":"boolean"
